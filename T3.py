@@ -1,3 +1,3 @@
 import time
 a = time.asctime()
-print (a)
+print ("local time:", a)
