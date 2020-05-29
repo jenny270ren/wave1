@@ -1,5 +1,5 @@
 import math
-a = int(input())
+a = float(input())
 f=a
 for x in range (3):
     f = f*1.04
